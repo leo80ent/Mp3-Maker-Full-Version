@@ -240,4 +240,4 @@ This repository serves as the official landing page for MP3 Deluxe. The software
 **Get the most recent version of MP3 Deluxe today!**
 
 ---
-**Last updated:** 2026-10-29 09:12:05 UTC
+**Last updated:** 2026-10-29 16:27:39 UTC
